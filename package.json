@@ -1,0 +1,24 @@
+{
+  "name": "microworf",
+  "version": "1.0.0",
+  "description": "Sample Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcatmwi/microworf.git"
+  },
+  "keywords": [
+    "microworf",
+    "telegram",
+    "bot"
+  ],
+  "author": "Tomcat^MWI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcatmwi/microworf/issues"
+  },
+  "homepage": "https://github.com/tomcatmwi/microworf#readme"
+}
