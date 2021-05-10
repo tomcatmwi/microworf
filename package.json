@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/tomcatmwi/microworf#readme",
   "dependencies": {
+    "dotenv": "^9.0.2",
     "node-telegram-bot-api": "^0.53.0"
   }
 }
