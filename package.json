@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tomcatmwi/microworf/issues"
   },
-  "homepage": "https://github.com/tomcatmwi/microworf#readme"
+  "homepage": "https://github.com/tomcatmwi/microworf#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
 }
